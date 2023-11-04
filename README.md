@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kodedemy
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 You can reach me on email at preciousokonofua33@gmail.com
